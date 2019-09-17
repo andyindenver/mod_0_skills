@@ -1,0 +1,81 @@
+"How to become a Turing Student"
+
+1 Have Prior Life
+  1.1 Get job
+  1.2 Work at job for a while
+  1.3 Get tired of job
+    1.3.1 Decide this work isn't for you anymore
+    1.3.2 Decide things you dislike aren't going to change
+    1.3.3 Realize there must something better out there
+2 Research Options
+  2.1 Search for other jobs
+    2.1.1 Scan Built In Colorado
+    2.1.2 Apply for other Jobs
+    2.1.3 Interview for other jobs
+    2.1.4 Fail to get other jobs
+    2.1.5 Decide you don't really like other jobs you're applying for anyway
+  2.2 Research Code Bootcamps
+    2.2.1 Look at G School
+      2.2.1.1 Become uncomfortable with staff turnover
+    2.2.2 Look at DU
+      2.2.2.1 Become uncomfortable with overly broad program
+    2.2.3 Look at Turing
+      2.2.3.1 Get good vibe from Turing
+      2.2.3.2 Read everything you can find on internet about Turing
+      2.2.3.3 Talk to co-workers who went through Turing
+    2.2.4 Look at other options
+      2.2.4.1 Realize nothing sounds as good as Turing
+3 Determine Whether Attending Turing is Viable Option
+  3.1 Raise idea of going back to school with wife
+    3.1.1 Discuss idea of attending Turing
+    3.1.2 Explain what "Back End Engineering" means
+    3.1.3 Review timeline of program
+      3.1.3.1 Review expected timeline of not working
+    3.1.4 Explain what "Back End Engineering" means again
+  3.2 Review finances
+    3.2.1 Explore refinancing mortgage to lower payments
+      3.2.1.1 Talk to Mortgage Guy
+      3.2.1.2 Fill out paperwork
+      3.2.1.3 Authorize credit checks
+      3.2.1.4 Get appraisal
+      3.2.1.5 Fill out more paperwork
+      3.2.1.6 Wait for interest rates to drop
+      3.2.1.7 Get mortgage refinanced
+    3.2.2 Explore Financing Options
+      3.2.2.1 Assess personal savings
+      3.2.2.2 Explore Turing Finance partner options
+      3.2.2.3 Talk to personal bank
+      3.2.2.4 Talk to Mortgage Guy about Home Equity Options
+      3.2.2.5 Talk to family
+      3.2.2.6 Make decision on how to finance
+      3.2.2.7 Finalize plan to get that money
+4 Apply to Turing
+  4.1 Prepare resume
+    4.1.1 Find old resume
+    4.1.2 Update to include work at current position
+  4.2 Apply
+    4.2.1 Go to Turing Application Site
+    4.2.2 Fill out application fields
+    4.2.3 Upload Resume
+    4.2.4 Take Logic Exam
+      4.2.4.1 Answer first question
+      4.2.4.2 Realize you really do need pen & paper
+      4.2.4.3 Go find pen & paper
+      4.2.4.4 Sit back down and answer remaining questions
+  4.3 Wait Patiently
+  4.4 Interview
+    4.4.1 Receive Interview Invite
+    4.4.2 Schedule Interview
+    4.4.3 Show up for Interview
+    4.4.4 Have wonderful interview conversation with Amy
+      4.4.4.1 Talk about work experience
+      4.4.4.2 Conduct logic exam
+      4.4.4.3 Talk about Turing's mission
+      4.4.4.4 Talk about what to expect
+5 Enrollment
+  5.1 Receive Acceptance Offer
+  5.2 Review with family
+    5.2.1 Ask wife "Are you certain you're OK with this"
+  5.3 Pay deposit and choose 1911 BEE Cohort
+  5.4 Enroll in Mod 0
+  5.5 Prepare to notify current job of resignation
