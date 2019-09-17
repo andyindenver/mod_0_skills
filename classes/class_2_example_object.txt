@@ -1,0 +1,16 @@
+Object:
+  "Ginsu Chef's Knife"
+
+Attributes:
+  date_of_purchase: 05/03/2014
+  date_of_last_use: 09/15/2019
+  sharpness_rating: 7
+  brand_name: "Ginsu"
+  current_location: "Prep Area"
+  is_clean: false
+
+Methods:
+  chop_things: date_of_last_use = 09/17/2019
+  sharpen: sharpness_rating = 10
+  wash: is_clean = true
+  move: current_location = "Dish Room"
