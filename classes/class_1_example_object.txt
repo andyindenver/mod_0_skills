@@ -1,0 +1,18 @@
+Object:
+  "Todd Bright"
+
+Attributes:
+  date_of_hire: 09/17/2016
+  first_name: "Todd"
+  last_name: "Bright"
+  current_job: "Sous Chef"
+  washed_hands_after_using_restroom: true
+  current_employee: true
+  hourly_wage: 21.98
+
+Methods:
+  wash_hands: washed_hands_after_using_restroom = true
+  receive_promotion: hourly_wage + 1.5 = 23.48
+  years_of_service: (09/17/2019 - 09/17/2016) /365 = 3
+  terminates_employment current_employee = false
+  change_role: current_job = "Executive Chef"
