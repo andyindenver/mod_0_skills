@@ -1,0 +1,16 @@
+Class:
+  "Knife"
+
+Attributes:
+  date_of_purchase (datetime)
+  time_of_last_use (datetime)
+  sharpness_rating (integer)
+  brand_name (string)
+  current_location (string)
+  is_clean (boolean)
+
+Methods:
+  chop_things (updates time_of_last_use attribute)
+  sharpen (updates sharpness_rating attribute)
+  wash (updates is_clean attribute)
+  move (updates current_location attribute)
