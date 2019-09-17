@@ -3,7 +3,7 @@ Class:
 
 Attributes:
   date_of_purchase (datetime)
-  time_of_last_use (datetime)
+  date_of_last_use (datetime)
   sharpness_rating (integer)
   brand_name (string)
   current_location (string)
