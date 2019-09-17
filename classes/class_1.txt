@@ -1,0 +1,18 @@
+Class:
+  "Employee"
+
+Attributes:
+  date_of_hire (datetime)
+  first_name (string)
+  last_name (string)
+  current_job (string)
+  washed_hands_after_using_restroom (boolean)
+  current_employee (boolean)
+  hourly_wage (float)
+
+Methods:
+  wash_hands (updates washed_hands_after_using_restroom attribute)
+  receive_promotion (updates hourly_wage attribute: hourly_wage + n)
+  years_of_service (calculates length of employment: (today - date_of_hire) /365)
+  terminates_employment (updates current_employee boolean)
+  change_role (updates current_job attribute)
